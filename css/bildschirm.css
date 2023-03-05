@@ -8,24 +8,40 @@ background-repeat: no-repeat;}
 body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
-      color: #818181;
+      color: black;
   }
   h2 {
       font-size: 24px;
       text-transform: uppercase;
-      color: #303030;
+      color: black;
       font-weight: 600;
       margin-bottom: 30px;
   }
   h4 {
       font-size: 19px;
       line-height: 1.375em;
-      color: #303030;
+      color: black;
       font-weight: 400;
       margin-bottom: 30px;
+    
   }  
+
+
+  h5 {
+color: white;
+
+
+  }
+
+  h6 {
+
+    color: black;
+    text-align: center;
+    font-size: larger;
+  }
+
   .jumbotron {
-      background-color: navy;
+      background-color: black;
       padding: 100px 0px;
       color: #fff;
       
@@ -59,6 +75,7 @@ body {
       padding: 0 0 15px 0;
       border: none;
       border-radius: 0;
+      
   }
   .thumbnail img {
       width: 100%;
@@ -127,7 +144,7 @@ body {
 border-color: #f4511e;}
   .navbar {
       margin-bottom: 0;
-      background-color: #f4511e;
+      background-color: black;
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
@@ -140,8 +157,8 @@ border-color: #f4511e;}
       color: #fff !important;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
-      color: #f4511e !important;
-      background-color: #fff !important;
+      color: navy !important;
+      background-color: white !important;
   }
   .navbar-default .navbar-toggle {
       border-color: transparent;
@@ -196,5 +213,8 @@ border-color: #f4511e;}
     }
   }
 .Ueberschrift{background-color: #f4511e;
-color:white;
+color:red;
 width: 270px;}
+
+
+
