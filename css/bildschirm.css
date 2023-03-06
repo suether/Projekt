@@ -3,7 +3,7 @@
 .Hintergrund{background-image: url(../Software/Bilder/Hintergrund_Slider.jpg);
 background-repeat: no-repeat;}
 #footerIcon{
-    color: #f4511e;
+    color: black;
 }
 body {
       font: 400 15px Lato, sans-serif;
@@ -39,6 +39,9 @@ color: white;
     text-align: center;
     font-size: larger;
   }
+
+  
+  
 
   .jumbotron {
       background-color: black;
@@ -157,7 +160,7 @@ border-color: #f4511e;}
       color: #fff !important;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
-      color: navy !important;
+      color: black !important;
       background-color: white !important;
   }
   .navbar-default .navbar-toggle {
@@ -215,6 +218,7 @@ border-color: #f4511e;}
 .Ueberschrift{background-color: #f4511e;
 color:red;
 width: 270px;}
+
 
 
 
